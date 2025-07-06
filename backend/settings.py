@@ -12,7 +12,7 @@ DEBUG = 'False'
 
 # Hosts
 ALLOWED_HOSTS = [
-    'django-test-75vu.onrender.com',
+    'customer-care-backend.onrender.com',
     'localhost',
     '127.0.0.1',
     os.environ.get('RENDER_EXTERNAL_HOSTNAME'),  # Render will inject this automatically
